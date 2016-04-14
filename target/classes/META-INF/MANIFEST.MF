@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: teste
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bruno
+Implementation-Vendor-Id: br.com.brunobrasilweb.teste
+Build-Jdk: 1.8.0_74
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
